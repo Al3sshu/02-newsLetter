@@ -71,6 +71,8 @@
   label{
     font-weight: 500;
     color: var(--Dark-Slate-Grey);
+    font-size: 13px;
+    font-family: "Roboto", sans-serif";
   }
   input{
     padding: 10px 20px;
